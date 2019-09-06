@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmmoniaDetection</string>
+    <string name="title_activity_configure">Configure</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

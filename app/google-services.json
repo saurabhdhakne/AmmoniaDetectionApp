@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247783834510",
+    "firebase_url": "https://ammonia-82854.firebaseio.com",
+    "project_id": "ammonia-82854",
+    "storage_bucket": "ammonia-82854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247783834510:android:f007039ac64b4017",
+        "android_client_info": {
+          "package_name": "com.example.ammoniadetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247783834510-8ki482tdbvl7v53cnem14l75suri1j84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGVSEOLLmmJDUwV1J0wi-Diq8E7MQf68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247783834510-8ki482tdbvl7v53cnem14l75suri1j84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
